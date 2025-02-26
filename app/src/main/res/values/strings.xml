@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tortoise</string>
+    <string name="multiple_goals">Goals</string>
+    <string name="daily_status">Daily Status</string>
+    <string name="history">History</string>
+    <string name="settings">Settings</string>
+    <string name="nav_detail">Detail</string>
+    <string name="launch">Save</string>
+    <string name="daily_step_status">7000/10000 Steps</string>
+    <string name="enter_steps">Enter Steps</string>
+    <string name="detail_screen">Detail Screen</string>
+</resources>
